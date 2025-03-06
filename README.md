@@ -14,5 +14,5 @@ Not finished shoping cart made on HTML CSS JS following along the next online co
 ## Author Info
 
 - Linkedin - [Federico Andrés Jácome Castañeda](https://www.linkedin.com/in/federicojacome/)
-- Website - [Portfolio](http://fedeandresdeveloper.online/)
+- Website - [Portfolio](https://federocky.github.io/PersonalWeb/)
 
